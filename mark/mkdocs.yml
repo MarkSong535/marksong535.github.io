@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Mark Git Repo
+site_url: https://marksong.me/
+nav:
+    - Home: index.md
+theme:
+  name: material
