@@ -1,6 +1,0 @@
-site_name: Mark Git Repo
-site_url: https://marksong.me/
-nav:
-    - Home: index.md
-theme:
-  name: material
